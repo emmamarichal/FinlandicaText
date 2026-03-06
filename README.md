@@ -5,6 +5,10 @@ Finlandica Text is part of the official Finlandica type family, commissioned by 
 
 Finlandica Text is a formal yet characterful typeface designed for extended reading and versatile use. While its structure is calm and functional, subtle ink traps and carefully engineered details ensure clarity across sizes and media. 
 
-The typeface supports a broad range of modern Latin-based writing systems and most contemporary Cyrillic scripts. A small number of historical or extended Cyrillic characters are included for compatibility, but full support for Church Slavonic or other historic orthographies is not intended. Non-Latin and non-Cyrillic scripts are currently outside the scope of the project.
+Finlandica Headline supports modern Latin-based writing systems and most contemporary Cyrillic scripts.
+
+## Authors
+
+Finlandica was designed by Helsinki Type Studio.
 
 
