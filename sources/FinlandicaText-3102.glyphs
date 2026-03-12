@@ -1,44 +1,6 @@
 {
-.appVersion = "3434";
+.appVersion = "3516";
 .formatVersion = 3;
-DisplayStrings = (
-"/dieresiscomb_acutecomb/dieresiscomb_macroncomb/dotaccentcomb_macroncomb ̀/acutecomb_dotaccentcomb ̋/ringcomb_acutecomb/tildecomb_dieresiscomb/tildecomb_acutecomb/tildecomb_macroncomb/macroncomb_dieresiscomb/macroncomb_gravecomb/macroncomb_acutecomb ̣̮̯̱̏̑/brevecomb_acutecomb/brevecomb_gravecomb/brevecomb_hookabovecomb/brevecomb_tildecomb/circumflexcomb_acutecomb/circumflexcomb_gravecomb/circumflexcomb_hookabovecomb/circumflexcomb_tildecomb ¨˙`´/acute_dotaccentcomb ˝ˆˇ˘˚˜/tilde_acutecomb ¯",
-"/dieresiscomb_acutecomb",
-"/dieresiscomb_acutecomb/dieresiscomb_macroncomb/dotaccentcomb_macroncomb/acutecomb_dotaccentcomb ̋/ringcomb_acutecomb/tildecomb_dieresiscomb/tildecomb_acutecomb/tildecomb_macroncomb/macroncomb_dieresiscomb/macroncomb_gravecomb/macroncomb_acutecomb/brevecomb_acutecomb/brevecomb_gravecomb/brevecomb_hookabovecomb/brevecomb_tildecomb/circumflexcomb_acutecomb/circumflexcomb_gravecomb/circumflexcomb_hookabovecomb/circumflexcomb_tildecomb/acute_dotaccentcomb/tilde_acutecomb",
-"oơǫ̛́",
-"×",
-"Ẹ",
-"ӓ",
-"Ċ",
-"/Idotbelow.ss01/i.ss01 и/brevecomb-cy и/ii-cy.loclBGR ѝ/iishort-cy.loclBGR й/nj.ss01/lj.ss01/i.ss01 ı/idotbelow.ss01 ị/icaron.ss01 ǐ/Nj.ss01 ǋи/Lj.ss01 ǈ̀ѝL/commaaccentcomb.loclMAH/Lcommaaccent.loclMAH/commaaccentcomb.loclMAH/lcommaaccent.loclMAH L̦Ļ",
-"ĳʼŉ/one.numr ½¼¾⅛⅜⅝⅞„̣̆ẶẬẠḄ̌ŽǄ̣Ḍ̱Ḏ̣̂Ệ̮Ḫ̣ḤỊḶ̱ḺṂṆṈ̣̂Ộ̣ỌỢỢṚ̱ṞṢṨṬṮỤƯỰ̣ỴẒặậạḅḍḏǆệẹ̮ḫḥıiị̣ḷǉḻṃṇǌṉộọợṛṟṣṩṭṯụựỵẓ̀Ѐ̈ЕЁКЌÏЇАӒӘӚОӦЫӸеѐ̈её̆ўіїјаӓоӧуӯӱӳ/one.numr ⁄/three.dnom ⅓/two.numr ⅔/zero.dnom ₀/one.dnom ₁/two.dnom ₂/three.dnom ₃/four.dnom ₄/five.dnom ₅/six.dnom ₆/seven.dnom ₇/eight.dnom ₈/nine.dnom ₉",
-"ǉǌ",
-"jĳʼŉ/three.numr ¾⅜/five.numr ⅝/seven.numr ⅞”„ǆіїј",
-"/_part.ii-cy.alt",
-"И/brevecomb-cy Й̆ий̆/ii-cy.loclBGR/iishort-cy.loclBGR",
-"ѝ̀иѝ",
-"̆ий",
-"",
-"ӆ",
-"Ĳ",
-"Ɨ",
-"ĳʼnŉ/i_j.loclNLD/one.numr/two.dnom ½¼¾⅛⅜⅝⅞„Ǆǅǈǋǆịǉǌ̀ЀЕЁЌӒӚӦЫӸѐёйѝўіїјӓӣӣӥӧӯӱӳ⅓⅔/zero.dnom ₀₁₂₃₄₅₆₇₈₉",
-"/tildecomb_acutecomb",
-"ıiȷj/ij.ss01/i_j.loclNLD.ss01/three.numr ¾⅜⅝⅞ẮẰ/brevecomb_hookabovecomb ẲẤẦẨȀǅẾỀỂȄḖḔȈḮǈǋỐỒỔȌṒṐṎȐȔṺắằẳấầẩȁǟếềểȅḗḕȉḯốồổȍṓṑṏȑṥȕṻЀЁѶўӓӯӱӳ",
-"ǈ",
-"Ứ",
-"ƯỨưứ",
-"Ớớ
-ỜƠỜơờ
-/I_J.loclNLD/I_J.loclNLD.ss01/i_j.loclNLD/i_j.loclNLD.ss01 
-НҢнң
-Ç/Esdescender-cy.loclCHU ç/esdescender-cy.loclCHU 
-ѢҌѣҍ
-ӚӚәӛ
-̈cэӭ
-тҭ
-ҿ"
-);
 axes = (
 {
 name = Weight;
@@ -716,6 +678,15 @@ value = 331;
 {
 name = "Master Icon Glyph Name";
 value = a;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 100;
+}
+);
 }
 );
 id = "A5EF4BC6-6509-4D3B-8B47-D449F40BB885";
@@ -848,6 +819,15 @@ value = 331;
 {
 name = "Master Icon Glyph Name";
 value = a;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 500;
+}
+);
 }
 );
 id = "A22F00EF-5553-43E5-A27F-95FD0E0BDB40";
@@ -930,6 +910,15 @@ value = 331;
 {
 name = "Master Icon Glyph Name";
 value = a;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 900;
+}
+);
 }
 );
 iconName = Bold;
@@ -36725,15 +36714,17 @@ unicode = 7751;
 {
 glyphname = nhookleft;
 kernRight = KO_n;
-lastChange = "2025-01-19 17:48:57 +0000";
+lastChange = "2026-03-12 14:25:38 +0000";
 layers = (
 {
 layerId = "A5EF4BC6-6509-4D3B-8B47-D449F40BB885";
 shapes = (
 {
+alignment = -1;
 ref = n;
 },
 {
+alignment = -1;
 pos = (-130,0);
 ref = _part.hook;
 }
@@ -36744,9 +36735,11 @@ width = 572;
 layerId = "A22F00EF-5553-43E5-A27F-95FD0E0BDB40";
 shapes = (
 {
+alignment = -1;
 ref = n;
 },
 {
+alignment = -1;
 pos = (-122,0);
 ref = _part.hook;
 }
@@ -36757,9 +36750,11 @@ width = 600;
 layerId = "0EDB233F-674C-46BF-8D38-84A6CD2C2EDF";
 shapes = (
 {
+alignment = -1;
 ref = n;
 },
 {
+alignment = -1;
 pos = (-127,0);
 ref = _part.hook;
 }
@@ -115746,6 +115741,7 @@ metricRight = J;
 );
 instances = (
 {
+exports = 0;
 name = Regular;
 type = variable;
 },
@@ -115759,6 +115755,15 @@ name = "Remove Glyphs";
 value = (
 "*.ss01"
 );
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 100;
+}
+);
 }
 );
 instanceInterpolations = {
@@ -115766,17 +115771,6 @@ instanceInterpolations = {
 "A5EF4BC6-6509-4D3B-8B47-D449F40BB885" = 0.875;
 };
 name = Thin;
-properties = (
-{
-key = familyNames;
-values = (
-{
-language = dflt;
-value = "Finlandica Text";
-}
-);
-}
-);
 weightClass = 100;
 },
 {
@@ -115789,6 +115783,15 @@ name = "Remove Glyphs";
 value = (
 "*.ss01"
 );
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 200;
+}
+);
 }
 );
 instanceInterpolations = {
@@ -115796,17 +115799,6 @@ instanceInterpolations = {
 "A5EF4BC6-6509-4D3B-8B47-D449F40BB885" = 0.75;
 };
 name = ExtraLight;
-properties = (
-{
-key = familyNames;
-values = (
-{
-language = dflt;
-value = "Finlandica Text";
-}
-);
-}
-);
 weightClass = 200;
 },
 {
@@ -115819,6 +115811,15 @@ name = "Remove Glyphs";
 value = (
 "*.ss01"
 );
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 300;
+}
+);
 }
 );
 instanceInterpolations = {
@@ -115826,17 +115827,6 @@ instanceInterpolations = {
 "A5EF4BC6-6509-4D3B-8B47-D449F40BB885" = 0.525;
 };
 name = Light;
-properties = (
-{
-key = familyNames;
-values = (
-{
-language = dflt;
-value = "Finlandica Text";
-}
-);
-}
-);
 weightClass = 300;
 },
 {
@@ -115853,6 +115843,15 @@ value = (
 {
 name = "Export DSIG Table";
 value = 0;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 400;
+}
+);
 }
 );
 instanceInterpolations = {
@@ -115860,17 +115859,6 @@ instanceInterpolations = {
 "A5EF4BC6-6509-4D3B-8B47-D449F40BB885" = 0.3;
 };
 name = Regular;
-properties = (
-{
-key = familyNames;
-values = (
-{
-language = dflt;
-value = "Finlandica Text";
-}
-);
-}
-);
 },
 {
 axesValues = (
@@ -115882,6 +115870,15 @@ name = "Remove Glyphs";
 value = (
 "*.ss01"
 );
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 500;
+}
+);
 }
 );
 instanceInterpolations = {
@@ -115889,17 +115886,6 @@ instanceInterpolations = {
 "A5EF4BC6-6509-4D3B-8B47-D449F40BB885" = 0.075;
 };
 name = Medium;
-properties = (
-{
-key = familyNames;
-values = (
-{
-language = dflt;
-value = "Finlandica Text";
-}
-);
-}
-);
 weightClass = 500;
 },
 {
@@ -115912,6 +115898,15 @@ name = "Remove Glyphs";
 value = (
 "*.ss01"
 );
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 600;
+}
+);
 }
 );
 instanceInterpolations = {
@@ -115919,17 +115914,6 @@ instanceInterpolations = {
 "A22F00EF-5553-43E5-A27F-95FD0E0BDB40" = 0.85;
 };
 name = SemiBold;
-properties = (
-{
-key = familyNames;
-values = (
-{
-language = dflt;
-value = "Finlandica Text";
-}
-);
-}
-);
 weightClass = 600;
 },
 {
@@ -115942,6 +115926,15 @@ name = "Remove Glyphs";
 value = (
 "*.ss01"
 );
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 700;
+}
+);
 }
 );
 instanceInterpolations = {
@@ -115950,17 +115943,6 @@ instanceInterpolations = {
 };
 isBold = 1;
 name = Bold;
-properties = (
-{
-key = familyNames;
-values = (
-{
-language = dflt;
-value = "Finlandica Text";
-}
-);
-}
-);
 weightClass = 700;
 },
 {
@@ -115973,6 +115955,15 @@ name = "Remove Glyphs";
 value = (
 "*.ss01"
 );
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 800;
+}
+);
 }
 );
 instanceInterpolations = {
@@ -115980,17 +115971,6 @@ instanceInterpolations = {
 "A22F00EF-5553-43E5-A27F-95FD0E0BDB40" = 0.35;
 };
 name = ExtraBold;
-properties = (
-{
-key = familyNames;
-values = (
-{
-language = dflt;
-value = "Finlandica Text";
-}
-);
-}
-);
 weightClass = 800;
 },
 {
@@ -116003,23 +115983,21 @@ name = "Remove Glyphs";
 value = (
 "*.ss01"
 );
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 900;
+}
+);
 }
 );
 instanceInterpolations = {
 "0EDB233F-674C-46BF-8D38-84A6CD2C2EDF" = 1;
 };
 name = Black;
-properties = (
-{
-key = familyNames;
-values = (
-{
-language = dflt;
-value = "Finlandica Text";
-}
-);
-}
-);
 weightClass = 900;
 }
 );
@@ -150756,7 +150734,7 @@ value = "This Font Software is licensed under the SIL Open Font License, Version
 },
 {
 key = licenseURL;
-value = "https://scripts.sil.org/OFL";
+value = "https://openfontlicense.org";
 },
 {
 key = manufacturers;
