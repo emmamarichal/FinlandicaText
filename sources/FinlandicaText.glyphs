@@ -38,7 +38,7 @@ value = 1;
 },
 {
 name = "Variable Font Origin";
-value = "A22F00EF-5553-43E5-A27F-95FD0E0BDB40";
+value = "0EDB233F-674C-46BF-8D38-84A6CD2C2EDF";
 },
 {
 name = "EditView Line Height";
@@ -65938,7 +65938,7 @@ public.markColor = "0,0.67,0.91,1";
 },
 {
 glyphname = "Edieresis-cy";
-lastChange = "2025-01-19 18:30:03 +0000";
+lastChange = "2026-03-12 15:05:30 +0000";
 layers = (
 {
 layerId = "A5EF4BC6-6509-4D3B-8B47-D449F40BB885";
@@ -65947,7 +65947,7 @@ shapes = (
 ref = "Ereversed-cy";
 },
 {
-pos = (-27,178);
+pos = (38,178);
 ref = dieresiscomb;
 }
 );
@@ -65960,7 +65960,7 @@ shapes = (
 ref = "Ereversed-cy";
 },
 {
-pos = (-31,154);
+pos = (40,154);
 ref = dieresiscomb;
 }
 );
@@ -65973,7 +65973,7 @@ shapes = (
 ref = "Ereversed-cy";
 },
 {
-pos = (-59,164);
+pos = (22,164);
 ref = dieresiscomb;
 }
 );
@@ -77928,7 +77928,7 @@ public.markColor = "0.67,0.95,0.38,1";
 {
 glyphname = "dje-cy";
 kernRight = KO_n;
-lastChange = "2025-01-19 17:48:57 +0000";
+lastChange = "2026-03-12 15:05:30 +0000";
 layers = (
 {
 background = {
@@ -77945,11 +77945,11 @@ shapes = (
 ref = hbar;
 },
 {
-pos = (237,0);
+pos = (418,0);
 ref = "_part.hook-cy";
 }
 );
-width = 572;
+width = 765;
 },
 {
 background = {
@@ -77966,11 +77966,11 @@ shapes = (
 ref = hbar;
 },
 {
-pos = (226,0);
+pos = (538,0);
 ref = "_part.hook-cy";
 }
 );
-width = 676;
+width = 1027;
 },
 {
 background = {
@@ -77987,11 +77987,11 @@ shapes = (
 ref = hbar;
 },
 {
-pos = (218,0);
+pos = (454,0);
 ref = "_part.hook-cy";
 }
 );
-width = 600;
+width = 863;
 }
 );
 metricRight = n;

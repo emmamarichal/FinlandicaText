@@ -1,6 +1,9 @@
 {
 .appVersion = "3516";
 .formatVersion = 3;
+DisplayStrings = (
+"…"
+);
 axes = (
 {
 name = Weight;
@@ -53,12 +56,12 @@ name = "Prevent Name ID";
 value = "16,17";
 },
 {
-name = "Variable Font Origin";
-value = "";
-},
-{
 name = "Export DSIG Table";
 value = 0;
+},
+{
+name = "Variable Font Origin";
+value = "3917E251-E52F-4C58-ACE3-A75BE580C29C";
 }
 );
 date = "2025-03-13 13:31:39 +0000";
@@ -98872,7 +98875,7 @@ com.schriftgestaltung.Glyphs.rightMetricsKey = comma;
 glyphname = ellipsis;
 kernLeft = KO_ellipsis;
 kernRight = KO_ellipsis;
-lastChange = "2025-01-19 17:48:57 +0000";
+lastChange = "2026-03-13 09:00:00 +0000";
 layers = (
 {
 layerId = "62D20235-B81E-4649-AB7B-DFD33366F1EF";
@@ -98919,16 +98922,16 @@ layerId = "3917E251-E52F-4C58-ACE3-A75BE580C29C";
 shapes = (
 {
 alignment = -1;
-ref = period;
-},
-{
-alignment = -1;
 pos = (298,0);
 ref = period;
 },
 {
 alignment = -1;
 pos = (597,0);
+ref = period;
+},
+{
+alignment = -1;
 ref = period;
 }
 );
@@ -123961,6 +123964,7 @@ metricRight = J;
 );
 instances = (
 {
+exports = 0;
 name = Italic;
 type = variable;
 },
@@ -123992,17 +123996,6 @@ Location = 100;
 isItalic = 1;
 linkStyle = Thin;
 name = "Thin Italic";
-properties = (
-{
-key = familyNames;
-values = (
-{
-language = dflt;
-value = "Finlandica Text";
-}
-);
-}
-);
 weightClass = 100;
 },
 {
@@ -124033,17 +124026,6 @@ Location = 200;
 isItalic = 1;
 linkStyle = ExtraLight;
 name = "ExtraLight Italic";
-properties = (
-{
-key = familyNames;
-values = (
-{
-language = dflt;
-value = "Finlandica Text";
-}
-);
-}
-);
 weightClass = 200;
 },
 {
@@ -124074,17 +124056,6 @@ Location = 300;
 isItalic = 1;
 linkStyle = Light;
 name = "Light Italic";
-properties = (
-{
-key = familyNames;
-values = (
-{
-language = dflt;
-value = "Finlandica Text";
-}
-);
-}
-);
 weightClass = 300;
 },
 {
@@ -124114,17 +124085,6 @@ Location = 400;
 );
 isItalic = 1;
 name = Italic;
-properties = (
-{
-key = familyNames;
-values = (
-{
-language = dflt;
-value = "Finlandica Text";
-}
-);
-}
-);
 },
 {
 axesValues = (
@@ -124154,17 +124114,6 @@ Location = 500;
 isItalic = 1;
 linkStyle = Medium;
 name = "Medium Italic";
-properties = (
-{
-key = familyNames;
-values = (
-{
-language = dflt;
-value = "Finlandica Text";
-}
-);
-}
-);
 weightClass = 500;
 },
 {
@@ -124195,17 +124144,6 @@ Location = 600;
 isItalic = 1;
 linkStyle = SemiBold;
 name = "SemiBold Italic";
-properties = (
-{
-key = familyNames;
-values = (
-{
-language = dflt;
-value = "Finlandica Text";
-}
-);
-}
-);
 weightClass = 600;
 },
 {
@@ -124236,17 +124174,6 @@ Location = 700;
 isBold = 1;
 isItalic = 1;
 name = "Bold Italic";
-properties = (
-{
-key = familyNames;
-values = (
-{
-language = dflt;
-value = "Finlandica Text";
-}
-);
-}
-);
 weightClass = 700;
 },
 {
@@ -124277,17 +124204,6 @@ Location = 800;
 isItalic = 1;
 linkStyle = ExtraBold;
 name = "ExtraBold Italic";
-properties = (
-{
-key = familyNames;
-values = (
-{
-language = dflt;
-value = "Finlandica Text";
-}
-);
-}
-);
 weightClass = 800;
 },
 {
@@ -124318,17 +124234,6 @@ Location = 900;
 isItalic = 1;
 linkStyle = Black;
 name = "Black Italic";
-properties = (
-{
-key = familyNames;
-values = (
-{
-language = dflt;
-value = "Finlandica Text";
-}
-);
-}
-);
 weightClass = 900;
 }
 );
