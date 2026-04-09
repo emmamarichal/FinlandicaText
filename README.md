@@ -1,5 +1,6 @@
-# FinlandicaText
 ![finlandica main image](https://github.com/HelsinkiTypeStudio/FinlandicaText/blob/main/documentation/finlandica-text.png)
+
+# FinlandicaText
 
 Finlandica is the official typeface of Finland, commissioned by the Prime Minister‘s Office, and free to use by everyone in the spirit of Jokaisenoikeus.
 
