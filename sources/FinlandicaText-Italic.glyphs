@@ -1,6 +1,9 @@
 {
-.appVersion = "3516";
+.appVersion = "3436";
 .formatVersion = 3;
+DisplayStrings = (
+"ԓ"
+);
 axes = (
 {
 name = Weight;
@@ -82487,7 +82490,7 @@ shapes = (
 ref = "el-cy";
 },
 {
-pos = (232,0);
+pos = (233,0);
 ref = _part.hook;
 }
 );
@@ -115918,6 +115921,9 @@ name = "Export DSIG Table";
 value = 0;
 }
 );
+instanceInterpolations = {
+"111500BD-850E-4B42-8F02-00848EDACCC3" = 1;
+};
 isItalic = 1;
 linkStyle = Thin;
 name = "Thin Italic";
@@ -115939,6 +115945,10 @@ name = "Export DSIG Table";
 value = 0;
 }
 );
+instanceInterpolations = {
+"111500BD-850E-4B42-8F02-00848EDACCC3" = 0.75;
+"CB50C8AE-8F70-48CF-8EC5-5F1FEE22C006" = 0.25;
+};
 isItalic = 1;
 linkStyle = ExtraLight;
 name = "ExtraLight Italic";
@@ -115960,6 +115970,10 @@ name = "Export DSIG Table";
 value = 0;
 }
 );
+instanceInterpolations = {
+"111500BD-850E-4B42-8F02-00848EDACCC3" = 0.525;
+"CB50C8AE-8F70-48CF-8EC5-5F1FEE22C006" = 0.475;
+};
 isItalic = 1;
 linkStyle = Light;
 name = "Light Italic";
@@ -115981,6 +115995,10 @@ name = "Export DSIG Table";
 value = 0;
 }
 );
+instanceInterpolations = {
+"111500BD-850E-4B42-8F02-00848EDACCC3" = 0.3;
+"CB50C8AE-8F70-48CF-8EC5-5F1FEE22C006" = 0.7;
+};
 isItalic = 1;
 name = Italic;
 },
@@ -116000,6 +116018,9 @@ name = "Export DSIG Table";
 value = 0;
 }
 );
+instanceInterpolations = {
+"CB50C8AE-8F70-48CF-8EC5-5F1FEE22C006" = 1;
+};
 isItalic = 1;
 linkStyle = Medium;
 name = "Medium Italic";
@@ -116021,6 +116042,10 @@ name = "Export DSIG Table";
 value = 0;
 }
 );
+instanceInterpolations = {
+"3917E251-E52F-4C58-ACE3-A75BE580C29C" = 0.15;
+"CB50C8AE-8F70-48CF-8EC5-5F1FEE22C006" = 0.85;
+};
 isItalic = 1;
 linkStyle = SemiBold;
 name = "SemiBold Italic";
@@ -116042,6 +116067,10 @@ name = "Export DSIG Table";
 value = 0;
 }
 );
+instanceInterpolations = {
+"3917E251-E52F-4C58-ACE3-A75BE580C29C" = 0.35;
+"CB50C8AE-8F70-48CF-8EC5-5F1FEE22C006" = 0.65;
+};
 isBold = 1;
 isItalic = 1;
 name = "Bold Italic";
@@ -116063,6 +116092,10 @@ name = "Export DSIG Table";
 value = 0;
 }
 );
+instanceInterpolations = {
+"3917E251-E52F-4C58-ACE3-A75BE580C29C" = 0.65;
+"CB50C8AE-8F70-48CF-8EC5-5F1FEE22C006" = 0.35;
+};
 isItalic = 1;
 linkStyle = ExtraBold;
 name = "ExtraBold Italic";
@@ -116084,6 +116117,9 @@ name = "Export DSIG Table";
 value = 0;
 }
 );
+instanceInterpolations = {
+"3917E251-E52F-4C58-ACE3-A75BE580C29C" = 1;
+};
 isItalic = 1;
 linkStyle = Black;
 name = "Black Italic";
@@ -150858,7 +150894,6 @@ value = "Finlandica is a trademark of Helsinki Type Studio.";
 }
 );
 settings = {
-fontType = variable;
 keepAlternatesTogether = 1;
 previewRemoveOverlap = 0;
 };
