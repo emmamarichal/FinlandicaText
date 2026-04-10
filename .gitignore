@@ -1,5 +1,6 @@
 .DS_Store
 *.glyphs~
+**/* (Autosaved).glyphs
 
 # Python
 gf-env/
