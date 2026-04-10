@@ -65,19 +65,19 @@ name = "Axis Mappings";
 value = {
 wght = {
 100 = 100;
-200 = 200;
+200 = 180;
 300 = 290;
-400 = 380;
+400 = 400;
 500 = 500;
 600 = 560;
-700 = 640;
-800 = 760;
+700 = 650;
+800 = 770;
 900 = 900;
 };
 };
 }
 );
-date = "2026-04-09 18:15:59 +0000";
+date = "2026-04-10 20:52:39 +0000";
 familyName = "Finlandica Text";
 featurePrefixes = (
 {
@@ -685,6 +685,15 @@ value = 331;
 {
 name = "Master Icon Glyph Name";
 value = a;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 100;
+}
+);
 }
 );
 id = "9C56164D-AE66-4588-951C-3236F4A2688E";
@@ -759,6 +768,15 @@ value = 331;
 {
 name = "Master Icon Glyph Name";
 value = a;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 500;
+}
+);
 }
 );
 id = "0F6921E6-B6DE-4419-A3CD-177DEB844CC2";
@@ -833,6 +851,15 @@ value = 331;
 {
 name = "Master Icon Glyph Name";
 value = a;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 900;
+}
+);
 }
 );
 iconName = Bold;
@@ -14344,7 +14371,7 @@ shapes = (
 {
 pos = (-24,3);
 ref = o;
-scale = (1.222,1.2705);
+scale = (1.222,1.27);
 }
 );
 };
@@ -52686,7 +52713,6 @@ lastChange = "2026-03-20 12:00:31 +0000";
 layers = (
 {
 layerId = "0EDB233F-674C-46BF-8D38-84A6CD2C2EDF";
-name = "Medium jh jh";
 shapes = (
 {
 closed = 1;
@@ -52737,7 +52763,6 @@ width = 1198;
 },
 {
 layerId = "9C56164D-AE66-4588-951C-3236F4A2688E";
-name = "Thin jh";
 shapes = (
 {
 closed = 1;
@@ -52788,7 +52813,6 @@ width = 1104;
 },
 {
 layerId = "0F6921E6-B6DE-4419-A3CD-177DEB844CC2";
-name = "Thin jh";
 shapes = (
 {
 closed = 1;
@@ -52856,7 +52880,6 @@ lastChange = "2026-03-20 12:00:31 +0000";
 layers = (
 {
 layerId = "0EDB233F-674C-46BF-8D38-84A6CD2C2EDF";
-name = "Medium jh jh";
 shapes = (
 {
 closed = 1;
@@ -52901,7 +52924,6 @@ width = 1178;
 },
 {
 layerId = "9C56164D-AE66-4588-951C-3236F4A2688E";
-name = "Thin jh";
 shapes = (
 {
 closed = 1;
@@ -52946,7 +52968,6 @@ width = 1143;
 },
 {
 layerId = "0F6921E6-B6DE-4419-A3CD-177DEB844CC2";
-name = "Thin jh";
 shapes = (
 {
 closed = 1;
@@ -53679,7 +53700,6 @@ lastChange = "2026-03-20 12:00:31 +0000";
 layers = (
 {
 layerId = "0EDB233F-674C-46BF-8D38-84A6CD2C2EDF";
-name = "Medium jh jh";
 shapes = (
 {
 closed = 1;
@@ -53719,7 +53739,6 @@ width = 946;
 },
 {
 layerId = "9C56164D-AE66-4588-951C-3236F4A2688E";
-name = "Thin jh";
 shapes = (
 {
 closed = 1;
@@ -53759,7 +53778,6 @@ width = 861;
 },
 {
 layerId = "0F6921E6-B6DE-4419-A3CD-177DEB844CC2";
-name = "Thin jh";
 shapes = (
 {
 closed = 1;
@@ -54098,7 +54116,6 @@ lastChange = "2026-03-20 12:00:31 +0000";
 layers = (
 {
 layerId = "0EDB233F-674C-46BF-8D38-84A6CD2C2EDF";
-name = "Medium jh jh";
 shapes = (
 {
 closed = 1;
@@ -54148,7 +54165,6 @@ width = 963;
 },
 {
 layerId = "9C56164D-AE66-4588-951C-3236F4A2688E";
-name = "Thin jh";
 shapes = (
 {
 closed = 1;
@@ -54198,7 +54214,6 @@ width = 848;
 },
 {
 layerId = "0F6921E6-B6DE-4419-A3CD-177DEB844CC2";
-name = "Thin jh";
 shapes = (
 {
 closed = 1;
@@ -54555,7 +54570,6 @@ lastChange = "2026-03-20 12:00:31 +0000";
 layers = (
 {
 layerId = "0EDB233F-674C-46BF-8D38-84A6CD2C2EDF";
-name = "Medium jh jh";
 shapes = (
 {
 closed = 1;
@@ -54603,7 +54617,6 @@ width = 1056;
 },
 {
 layerId = "9C56164D-AE66-4588-951C-3236F4A2688E";
-name = "Thin jh";
 shapes = (
 {
 closed = 1;
@@ -54651,7 +54664,6 @@ width = 938;
 },
 {
 layerId = "0F6921E6-B6DE-4419-A3CD-177DEB844CC2";
-name = "Thin jh";
 shapes = (
 {
 closed = 1;
@@ -54841,7 +54853,6 @@ lastChange = "2026-03-20 12:00:31 +0000";
 layers = (
 {
 layerId = "0EDB233F-674C-46BF-8D38-84A6CD2C2EDF";
-name = "Medium jh jh";
 shapes = (
 {
 closed = 1;
@@ -54887,7 +54898,6 @@ width = 1269;
 },
 {
 layerId = "9C56164D-AE66-4588-951C-3236F4A2688E";
-name = "Thin jh";
 shapes = (
 {
 closed = 1;
@@ -54933,7 +54943,6 @@ width = 996;
 },
 {
 layerId = "0F6921E6-B6DE-4419-A3CD-177DEB844CC2";
-name = "Thin jh";
 shapes = (
 {
 closed = 1;
@@ -55228,7 +55237,6 @@ lastChange = "2026-03-20 12:00:31 +0000";
 layers = (
 {
 layerId = "0EDB233F-674C-46BF-8D38-84A6CD2C2EDF";
-name = "Medium jh jh";
 shapes = (
 {
 closed = 1;
@@ -55294,7 +55302,6 @@ width = 1392;
 },
 {
 layerId = "9C56164D-AE66-4588-951C-3236F4A2688E";
-name = "Thin jh";
 shapes = (
 {
 closed = 1;
@@ -55360,7 +55367,6 @@ width = 1117;
 },
 {
 layerId = "0F6921E6-B6DE-4419-A3CD-177DEB844CC2";
-name = "Thin jh";
 shapes = (
 {
 closed = 1;
@@ -55449,7 +55455,6 @@ ref = "Ze-cy";
 );
 };
 layerId = "0EDB233F-674C-46BF-8D38-84A6CD2C2EDF";
-name = "Medium jh jh";
 shapes = (
 {
 closed = 1;
@@ -55520,7 +55525,6 @@ width = 677;
 },
 {
 layerId = "9C56164D-AE66-4588-951C-3236F4A2688E";
-name = "Thin jh";
 shapes = (
 {
 closed = 1;
@@ -55591,7 +55595,6 @@ width = 653;
 },
 {
 layerId = "0F6921E6-B6DE-4419-A3CD-177DEB844CC2";
-name = "Thin jh";
 shapes = (
 {
 closed = 1;
@@ -56168,7 +56171,6 @@ ref = Oslash;
 );
 };
 layerId = "0EDB233F-674C-46BF-8D38-84A6CD2C2EDF";
-name = "Medium jh jh";
 shapes = (
 {
 closed = 1;
@@ -56234,7 +56236,6 @@ width = 845;
 },
 {
 layerId = "9C56164D-AE66-4588-951C-3236F4A2688E";
-name = "Thin jh";
 shapes = (
 {
 closed = 1;
@@ -56300,7 +56301,6 @@ width = 807;
 },
 {
 layerId = "0F6921E6-B6DE-4419-A3CD-177DEB844CC2";
-name = "Thin jh";
 shapes = (
 {
 closed = 1;
@@ -57461,7 +57461,6 @@ lastChange = "2026-03-20 12:00:31 +0000";
 layers = (
 {
 layerId = "0EDB233F-674C-46BF-8D38-84A6CD2C2EDF";
-name = "Medium jh jh";
 shapes = (
 {
 closed = 1;
@@ -57511,7 +57510,6 @@ width = 1194;
 },
 {
 layerId = "9C56164D-AE66-4588-951C-3236F4A2688E";
-name = "Thin jh";
 shapes = (
 {
 closed = 1;
@@ -57561,7 +57559,6 @@ width = 1147;
 },
 {
 layerId = "0F6921E6-B6DE-4419-A3CD-177DEB844CC2";
-name = "Thin jh";
 shapes = (
 {
 closed = 1;
@@ -64093,7 +64090,6 @@ lastChange = "2026-03-20 12:00:31 +0000";
 layers = (
 {
 layerId = "0EDB233F-674C-46BF-8D38-84A6CD2C2EDF";
-name = "Black JH";
 shapes = (
 {
 closed = 1;
@@ -64113,7 +64109,6 @@ width = 539;
 },
 {
 layerId = "9C56164D-AE66-4588-951C-3236F4A2688E";
-name = "Thin JH";
 shapes = (
 {
 closed = 1;
@@ -64133,7 +64128,6 @@ width = 495;
 },
 {
 layerId = "0F6921E6-B6DE-4419-A3CD-177DEB844CC2";
-name = "Thin JH";
 shapes = (
 {
 closed = 1;
@@ -64403,7 +64397,6 @@ pos = (364,546);
 }
 );
 layerId = "0EDB233F-674C-46BF-8D38-84A6CD2C2EDF";
-name = "Black JH";
 shapes = (
 {
 closed = 1;
@@ -64466,7 +64459,6 @@ pos = (294,524);
 }
 );
 layerId = "9C56164D-AE66-4588-951C-3236F4A2688E";
-name = "Thin JH";
 shapes = (
 {
 closed = 1;
@@ -64529,7 +64521,6 @@ pos = (317,535);
 }
 );
 layerId = "0F6921E6-B6DE-4419-A3CD-177DEB844CC2";
-name = "Thin JH";
 shapes = (
 {
 closed = 1;
@@ -69410,7 +69401,6 @@ lastChange = "2026-03-20 12:00:31 +0000";
 layers = (
 {
 layerId = "0EDB233F-674C-46BF-8D38-84A6CD2C2EDF";
-name = "Black JH";
 shapes = (
 {
 pos = (0,546);
@@ -69426,7 +69416,6 @@ width = 681;
 },
 {
 layerId = "9C56164D-AE66-4588-951C-3236F4A2688E";
-name = "Thin JH";
 shapes = (
 {
 pos = (0,524);
@@ -69442,7 +69431,6 @@ width = 581;
 },
 {
 layerId = "0F6921E6-B6DE-4419-A3CD-177DEB844CC2";
-name = "Thin JH";
 shapes = (
 {
 pos = (0,535);
@@ -70435,7 +70423,6 @@ lastChange = "2026-03-20 12:00:31 +0000";
 layers = (
 {
 layerId = "0EDB233F-674C-46BF-8D38-84A6CD2C2EDF";
-name = "Black JH";
 shapes = (
 {
 closed = 1;
@@ -70480,7 +70467,6 @@ width = 981;
 },
 {
 layerId = "9C56164D-AE66-4588-951C-3236F4A2688E";
-name = "Thin JH";
 shapes = (
 {
 closed = 1;
@@ -70525,7 +70511,6 @@ width = 900;
 },
 {
 layerId = "0F6921E6-B6DE-4419-A3CD-177DEB844CC2";
-name = "Thin JH";
 shapes = (
 {
 closed = 1;
@@ -71908,7 +71893,6 @@ lastChange = "2026-03-20 12:00:31 +0000";
 layers = (
 {
 layerId = "0EDB233F-674C-46BF-8D38-84A6CD2C2EDF";
-name = "Black JH";
 shapes = (
 {
 closed = 1;
@@ -71969,7 +71953,6 @@ width = 976;
 },
 {
 layerId = "9C56164D-AE66-4588-951C-3236F4A2688E";
-name = "Thin JH";
 shapes = (
 {
 closed = 1;
@@ -72030,7 +72013,6 @@ width = 827;
 },
 {
 layerId = "0F6921E6-B6DE-4419-A3CD-177DEB844CC2";
-name = "Thin JH";
 shapes = (
 {
 closed = 1;
@@ -72319,7 +72301,6 @@ ref = "iu-cy";
 );
 };
 layerId = "0EDB233F-674C-46BF-8D38-84A6CD2C2EDF";
-name = "Medium jh jh";
 shapes = (
 {
 closed = 1;
@@ -72343,7 +72324,6 @@ width = 834;
 },
 {
 layerId = "9C56164D-AE66-4588-951C-3236F4A2688E";
-name = "Thin jh";
 shapes = (
 {
 closed = 1;
@@ -72367,7 +72347,6 @@ width = 744;
 },
 {
 layerId = "0F6921E6-B6DE-4419-A3CD-177DEB844CC2";
-name = "Thin jh";
 shapes = (
 {
 closed = 1;
@@ -72406,7 +72385,6 @@ lastChange = "2026-03-20 12:00:31 +0000";
 layers = (
 {
 layerId = "0EDB233F-674C-46BF-8D38-84A6CD2C2EDF";
-name = "Black JH";
 shapes = (
 {
 closed = 1;
@@ -72447,7 +72425,6 @@ width = 762;
 },
 {
 layerId = "9C56164D-AE66-4588-951C-3236F4A2688E";
-name = "Thin JH";
 shapes = (
 {
 closed = 1;
@@ -72488,7 +72465,6 @@ width = 601;
 },
 {
 layerId = "0F6921E6-B6DE-4419-A3CD-177DEB844CC2";
-name = "Thin JH";
 shapes = (
 {
 closed = 1;
@@ -72541,7 +72517,6 @@ lastChange = "2026-03-20 12:00:31 +0000";
 layers = (
 {
 layerId = "0EDB233F-674C-46BF-8D38-84A6CD2C2EDF";
-name = "Medium jh jh";
 shapes = (
 {
 closed = 1;
@@ -72590,7 +72565,6 @@ width = 1077;
 },
 {
 layerId = "9C56164D-AE66-4588-951C-3236F4A2688E";
-name = "Thin jh";
 shapes = (
 {
 closed = 1;
@@ -72639,7 +72613,6 @@ width = 784;
 },
 {
 layerId = "0F6921E6-B6DE-4419-A3CD-177DEB844CC2";
-name = "Thin jh";
 shapes = (
 {
 closed = 1;
@@ -72703,7 +72676,6 @@ lastChange = "2026-03-20 12:00:31 +0000";
 layers = (
 {
 layerId = "0EDB233F-674C-46BF-8D38-84A6CD2C2EDF";
-name = "Black JH";
 shapes = (
 {
 closed = 1;
@@ -72760,7 +72732,6 @@ width = 759;
 },
 {
 layerId = "9C56164D-AE66-4588-951C-3236F4A2688E";
-name = "Thin JH";
 shapes = (
 {
 closed = 1;
@@ -72817,7 +72788,6 @@ width = 584;
 },
 {
 layerId = "0F6921E6-B6DE-4419-A3CD-177DEB844CC2";
-name = "Thin JH";
 shapes = (
 {
 closed = 1;
@@ -72886,7 +72856,6 @@ lastChange = "2026-03-20 12:00:31 +0000";
 layers = (
 {
 layerId = "0EDB233F-674C-46BF-8D38-84A6CD2C2EDF";
-name = "Medium jh jh";
 shapes = (
 {
 closed = 1;
@@ -72947,7 +72916,6 @@ width = 1071;
 },
 {
 layerId = "9C56164D-AE66-4588-951C-3236F4A2688E";
-name = "Thin jh";
 shapes = (
 {
 closed = 1;
@@ -73008,7 +72976,6 @@ width = 752;
 },
 {
 layerId = "0F6921E6-B6DE-4419-A3CD-177DEB844CC2";
-name = "Thin jh";
 shapes = (
 {
 closed = 1;
@@ -73091,7 +73058,6 @@ ref = "ze-cy";
 );
 };
 layerId = "0EDB233F-674C-46BF-8D38-84A6CD2C2EDF";
-name = "Medium jh jh";
 shapes = (
 {
 closed = 1;
@@ -73162,7 +73128,6 @@ width = 591;
 },
 {
 layerId = "9C56164D-AE66-4588-951C-3236F4A2688E";
-name = "Thin jh";
 shapes = (
 {
 closed = 1;
@@ -73233,7 +73198,6 @@ width = 523;
 },
 {
 layerId = "0F6921E6-B6DE-4419-A3CD-177DEB844CC2";
-name = "Thin jh";
 shapes = (
 {
 closed = 1;
@@ -73319,7 +73283,6 @@ lastChange = "2026-03-20 12:00:31 +0000";
 layers = (
 {
 layerId = "0EDB233F-674C-46BF-8D38-84A6CD2C2EDF";
-name = "Black JH";
 shapes = (
 {
 closed = 1;
@@ -73355,7 +73318,6 @@ width = 896;
 },
 {
 layerId = "9C56164D-AE66-4588-951C-3236F4A2688E";
-name = "Thin JH";
 shapes = (
 {
 closed = 1;
@@ -73391,7 +73353,6 @@ width = 700;
 },
 {
 layerId = "0F6921E6-B6DE-4419-A3CD-177DEB844CC2";
-name = "Thin JH";
 shapes = (
 {
 closed = 1;
@@ -73447,7 +73408,6 @@ ref = o;
 );
 };
 layerId = "0EDB233F-674C-46BF-8D38-84A6CD2C2EDF";
-name = "Medium jh jh";
 shapes = (
 {
 closed = 1;
@@ -73513,7 +73473,6 @@ width = 700;
 },
 {
 layerId = "9C56164D-AE66-4588-951C-3236F4A2688E";
-name = "Thin jh";
 shapes = (
 {
 closed = 1;
@@ -73579,7 +73538,6 @@ width = 627;
 },
 {
 layerId = "0F6921E6-B6DE-4419-A3CD-177DEB844CC2";
-name = "Thin jh";
 shapes = (
 {
 closed = 1;
@@ -73863,7 +73821,6 @@ lastChange = "2026-03-20 12:00:31 +0000";
 layers = (
 {
 layerId = "0EDB233F-674C-46BF-8D38-84A6CD2C2EDF";
-name = "Black JH";
 shapes = (
 {
 closed = 1;
@@ -73940,7 +73897,6 @@ width = 1279;
 },
 {
 layerId = "9C56164D-AE66-4588-951C-3236F4A2688E";
-name = "Thin JH";
 shapes = (
 {
 closed = 1;
@@ -74017,7 +73973,6 @@ width = 1170;
 },
 {
 layerId = "0F6921E6-B6DE-4419-A3CD-177DEB844CC2";
-name = "Thin JH";
 shapes = (
 {
 closed = 1;
@@ -74315,7 +74270,6 @@ nodes = (
 );
 };
 layerId = "0EDB233F-674C-46BF-8D38-84A6CD2C2EDF";
-name = "Black JH";
 shapes = (
 {
 closed = 1;
@@ -74350,7 +74304,6 @@ width = 798;
 },
 {
 layerId = "9C56164D-AE66-4588-951C-3236F4A2688E";
-name = "Thin JH";
 shapes = (
 {
 closed = 1;
@@ -74385,7 +74338,6 @@ width = 531;
 },
 {
 layerId = "0F6921E6-B6DE-4419-A3CD-177DEB844CC2";
-name = "Thin JH";
 shapes = (
 {
 closed = 1;
@@ -74534,7 +74486,6 @@ ref = "te-cy";
 );
 };
 layerId = "0EDB233F-674C-46BF-8D38-84A6CD2C2EDF";
-name = "Medium jh jh";
 shapes = (
 {
 closed = 1;
@@ -74571,7 +74522,6 @@ pos = (323,524);
 }
 );
 layerId = "9C56164D-AE66-4588-951C-3236F4A2688E";
-name = "Thin jh";
 shapes = (
 {
 closed = 1;
@@ -74608,7 +74558,6 @@ pos = (345,535);
 }
 );
 layerId = "0F6921E6-B6DE-4419-A3CD-177DEB844CC2";
-name = "Thin jh";
 shapes = (
 {
 closed = 1;
@@ -74834,7 +74783,6 @@ pos = (608,0);
 }
 );
 layerId = "0EDB233F-674C-46BF-8D38-84A6CD2C2EDF";
-name = "Medium jh jh";
 shapes = (
 {
 closed = 1;
@@ -74890,7 +74838,6 @@ pos = (487,0);
 }
 );
 layerId = "9C56164D-AE66-4588-951C-3236F4A2688E";
-name = "Thin jh";
 shapes = (
 {
 closed = 1;
@@ -74946,7 +74893,6 @@ pos = (528,0);
 }
 );
 layerId = "0F6921E6-B6DE-4419-A3CD-177DEB844CC2";
-name = "Thin jh";
 shapes = (
 {
 closed = 1;
@@ -75060,7 +75006,6 @@ lastChange = "2026-03-20 12:00:31 +0000";
 layers = (
 {
 layerId = "0EDB233F-674C-46BF-8D38-84A6CD2C2EDF";
-name = "Black JH";
 shapes = (
 {
 closed = 1;
@@ -75116,7 +75061,6 @@ width = 841;
 },
 {
 layerId = "9C56164D-AE66-4588-951C-3236F4A2688E";
-name = "Thin JH";
 shapes = (
 {
 closed = 1;
@@ -75172,7 +75116,6 @@ width = 682;
 },
 {
 layerId = "0F6921E6-B6DE-4419-A3CD-177DEB844CC2";
-name = "Thin JH";
 shapes = (
 {
 closed = 1;
@@ -75561,7 +75504,6 @@ lastChange = "2026-03-20 12:00:31 +0000";
 layers = (
 {
 layerId = "0EDB233F-674C-46BF-8D38-84A6CD2C2EDF";
-name = "Black JH";
 shapes = (
 {
 closed = 1;
@@ -75594,7 +75536,6 @@ width = 620;
 },
 {
 layerId = "9C56164D-AE66-4588-951C-3236F4A2688E";
-name = "Thin JH";
 shapes = (
 {
 closed = 1;
@@ -75627,7 +75568,6 @@ width = 527;
 },
 {
 layerId = "0F6921E6-B6DE-4419-A3CD-177DEB844CC2";
-name = "Thin JH";
 shapes = (
 {
 closed = 1;
@@ -76004,7 +75944,6 @@ lastChange = "2026-03-20 12:00:31 +0000";
 layers = (
 {
 layerId = "0EDB233F-674C-46BF-8D38-84A6CD2C2EDF";
-name = "Black JH";
 shapes = (
 {
 closed = 1;
@@ -76046,7 +75985,6 @@ width = 743;
 },
 {
 layerId = "9C56164D-AE66-4588-951C-3236F4A2688E";
-name = "Thin JH";
 shapes = (
 {
 closed = 1;
@@ -76088,7 +76026,6 @@ width = 576;
 },
 {
 layerId = "0F6921E6-B6DE-4419-A3CD-177DEB844CC2";
-name = "Thin JH";
 shapes = (
 {
 closed = 1;
@@ -76403,7 +76340,6 @@ lastChange = "2026-03-20 12:00:31 +0000";
 layers = (
 {
 layerId = "0EDB233F-674C-46BF-8D38-84A6CD2C2EDF";
-name = "Black JH";
 shapes = (
 {
 closed = 1;
@@ -76419,7 +76355,6 @@ width = 328;
 },
 {
 layerId = "9C56164D-AE66-4588-951C-3236F4A2688E";
-name = "Thin JH";
 shapes = (
 {
 closed = 1;
@@ -76435,7 +76370,6 @@ width = 217;
 },
 {
 layerId = "0F6921E6-B6DE-4419-A3CD-177DEB844CC2";
-name = "Thin JH";
 shapes = (
 {
 closed = 1;
@@ -76522,7 +76456,6 @@ ref = "ghemiddlehook-cy";
 );
 };
 layerId = "0EDB233F-674C-46BF-8D38-84A6CD2C2EDF";
-name = "Black JH";
 shapes = (
 {
 closed = 1;
@@ -76577,7 +76510,6 @@ width = 713;
 },
 {
 layerId = "9C56164D-AE66-4588-951C-3236F4A2688E";
-name = "Thin JH";
 shapes = (
 {
 closed = 1;
@@ -76632,7 +76564,6 @@ width = 526;
 },
 {
 layerId = "0F6921E6-B6DE-4419-A3CD-177DEB844CC2";
-name = "Thin JH";
 shapes = (
 {
 closed = 1;
@@ -78925,7 +78856,6 @@ ref = x;
 );
 };
 layerId = "0EDB233F-674C-46BF-8D38-84A6CD2C2EDF";
-name = "Black JH";
 shapes = (
 {
 closed = 1;
@@ -78965,7 +78895,6 @@ width = 622;
 },
 {
 layerId = "9C56164D-AE66-4588-951C-3236F4A2688E";
-name = "Thin JH";
 shapes = (
 {
 closed = 1;
@@ -79005,7 +78934,6 @@ width = 468;
 },
 {
 layerId = "0F6921E6-B6DE-4419-A3CD-177DEB844CC2";
-name = "Thin JH";
 shapes = (
 {
 closed = 1;
@@ -79187,7 +79115,6 @@ pos = (320,546);
 }
 );
 layerId = "0EDB233F-674C-46BF-8D38-84A6CD2C2EDF";
-name = "Medium jh jh";
 shapes = (
 {
 closed = 1;
@@ -79241,7 +79168,6 @@ pos = (234,524);
 }
 );
 layerId = "9C56164D-AE66-4588-951C-3236F4A2688E";
-name = "Thin jh";
 shapes = (
 {
 closed = 1;
@@ -79295,7 +79221,6 @@ pos = (264,535);
 }
 );
 layerId = "0F6921E6-B6DE-4419-A3CD-177DEB844CC2";
-name = "Thin jh";
 shapes = (
 {
 closed = 1;
@@ -79471,7 +79396,6 @@ lastChange = "2026-03-20 12:00:31 +0000";
 layers = (
 {
 layerId = "0EDB233F-674C-46BF-8D38-84A6CD2C2EDF";
-name = "Black JH";
 shapes = (
 {
 closed = 1;
@@ -79511,7 +79435,6 @@ width = 563;
 },
 {
 layerId = "9C56164D-AE66-4588-951C-3236F4A2688E";
-name = "Thin JH";
 shapes = (
 {
 closed = 1;
@@ -79551,7 +79474,6 @@ width = 522;
 },
 {
 layerId = "0F6921E6-B6DE-4419-A3CD-177DEB844CC2";
-name = "Thin JH";
 shapes = (
 {
 closed = 1;
@@ -79684,7 +79606,6 @@ lastChange = "2026-03-20 12:00:31 +0000";
 layers = (
 {
 layerId = "0EDB233F-674C-46BF-8D38-84A6CD2C2EDF";
-name = "Black JH";
 shapes = (
 {
 closed = 1;
@@ -79747,7 +79668,6 @@ width = 713;
 },
 {
 layerId = "9C56164D-AE66-4588-951C-3236F4A2688E";
-name = "Thin JH";
 shapes = (
 {
 closed = 1;
@@ -79810,7 +79730,6 @@ width = 639;
 },
 {
 layerId = "0F6921E6-B6DE-4419-A3CD-177DEB844CC2";
-name = "Thin JH";
 shapes = (
 {
 closed = 1;
@@ -111683,6 +111602,15 @@ name = "Remove Glyphs";
 value = (
 "*.ss01"
 );
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 100;
+}
+);
 }
 );
 instanceInterpolations = {
@@ -111693,7 +111621,7 @@ weightClass = 100;
 },
 {
 axesValues = (
-200
+180
 );
 customParameters = (
 {
@@ -111701,11 +111629,20 @@ name = "Remove Glyphs";
 value = (
 "*.ss01"
 );
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 200;
+}
+);
 }
 );
 instanceInterpolations = {
-"0F6921E6-B6DE-4419-A3CD-177DEB844CC2" = 0.25;
-"9C56164D-AE66-4588-951C-3236F4A2688E" = 0.75;
+"0F6921E6-B6DE-4419-A3CD-177DEB844CC2" = 0.2;
+"9C56164D-AE66-4588-951C-3236F4A2688E" = 0.8;
 };
 name = ExtraLight;
 weightClass = 200;
@@ -111720,6 +111657,15 @@ name = "Remove Glyphs";
 value = (
 "*.ss01"
 );
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 300;
+}
+);
 }
 );
 instanceInterpolations = {
@@ -111731,7 +111677,7 @@ weightClass = 300;
 },
 {
 axesValues = (
-380
+400
 );
 customParameters = (
 {
@@ -111741,13 +111687,18 @@ value = (
 );
 },
 {
-name = "Export DSIG Table";
-value = 0;
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 400;
+}
+);
 }
 );
 instanceInterpolations = {
-"0F6921E6-B6DE-4419-A3CD-177DEB844CC2" = 0.7;
-"9C56164D-AE66-4588-951C-3236F4A2688E" = 0.3;
+"0F6921E6-B6DE-4419-A3CD-177DEB844CC2" = 0.75;
+"9C56164D-AE66-4588-951C-3236F4A2688E" = 0.25;
 };
 name = Regular;
 },
@@ -111760,6 +111711,15 @@ customParameters = (
 name = "Remove Glyphs";
 value = (
 "*.ss01"
+);
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 500;
+}
 );
 }
 );
@@ -111779,6 +111739,15 @@ name = "Remove Glyphs";
 value = (
 "*.ss01"
 );
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 600;
+}
+);
 }
 );
 instanceInterpolations = {
@@ -111790,7 +111759,7 @@ weightClass = 600;
 },
 {
 axesValues = (
-640
+650
 );
 customParameters = (
 {
@@ -111798,11 +111767,20 @@ name = "Remove Glyphs";
 value = (
 "*.ss01"
 );
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 700;
+}
+);
 }
 );
 instanceInterpolations = {
-"0EDB233F-674C-46BF-8D38-84A6CD2C2EDF" = 0.35;
-"0F6921E6-B6DE-4419-A3CD-177DEB844CC2" = 0.65;
+"0EDB233F-674C-46BF-8D38-84A6CD2C2EDF" = 0.375;
+"0F6921E6-B6DE-4419-A3CD-177DEB844CC2" = 0.625;
 };
 isBold = 1;
 name = Bold;
@@ -111810,7 +111788,7 @@ weightClass = 700;
 },
 {
 axesValues = (
-760
+770
 );
 customParameters = (
 {
@@ -111818,11 +111796,20 @@ name = "Remove Glyphs";
 value = (
 "*.ss01"
 );
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 800;
+}
+);
 }
 );
 instanceInterpolations = {
-"0EDB233F-674C-46BF-8D38-84A6CD2C2EDF" = 0.65;
-"0F6921E6-B6DE-4419-A3CD-177DEB844CC2" = 0.35;
+"0EDB233F-674C-46BF-8D38-84A6CD2C2EDF" = 0.675;
+"0F6921E6-B6DE-4419-A3CD-177DEB844CC2" = 0.325;
 };
 name = ExtraBold;
 weightClass = 800;
@@ -111836,6 +111823,15 @@ customParameters = (
 name = "Remove Glyphs";
 value = (
 "*.ss01"
+);
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 900;
+}
 );
 }
 );
@@ -146615,7 +146611,6 @@ value = "Finlandica is a trademark of Helsinki Type Studio.";
 );
 settings = {
 keepAlternatesTogether = 1;
-previewRemoveOverlap = 0;
 };
 stems = (
 {
@@ -146640,5 +146635,5 @@ KernOnRegenerateGroups = 1;
 KernOnVersion = "1.33";
 };
 versionMajor = 3;
-versionMinor = 102;
+versionMinor = 103;
 }
